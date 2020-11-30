@@ -53,7 +53,7 @@ jovo deploy --target zip
  1. use your jovo instance as local backend for dialogflow :
    [Jovo with local Server](./docu/Jovo-run-Dialogflow-locally.md)
  2. Setup Telegram-Bot Integration for Dialogflow: 
-   [Jovo with local Server ( See scond part)](./Jovo-run-Dialogflow-locally.md)
+   [Jovo with local Server ( See scond part)](./docu/Jovo-run-Dialogflow-locally.md)
  3. Use Google-Cloud function as backend: 
    https://www.jovo.tech/tutorials/deploy-to-google-cloud  
      * you should not need to create a new Google-Function & Bucket
