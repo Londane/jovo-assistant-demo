@@ -59,5 +59,7 @@ jovo deploy --target zip
      * you should not need to create a new Google-Function & Bucket
      * if you want to create new Google-Functions pls. get into contact with me so i can create it for you or give you the rights to do so yourself
      * the same is true for Buckets (you should not need to crate one, if so contact me)
- 4. Database: this point is still a TODO on my side
-  
+ 4. Database: 
+     * After checking the other options, we have decided for google firestore
+     * check [how to use firestore](./docu/SavingData.md)
+     * https://firebase.google.com/docs/firestore/data-model
